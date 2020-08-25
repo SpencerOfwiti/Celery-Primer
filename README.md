@@ -1,5 +1,5 @@
 # Celery-Primer 
-An intro to using celery for implementing task queues. 
+An intro to using celery for implementing task queues in python. 
 
 ## Table of contents
 * [Built With](#built-with)
@@ -11,6 +11,7 @@ An intro to using celery for implementing task queues.
 * [Python 3.6](https://www.python.org/) - The programming language used.
 * [Celery](https://docs.celeryproject.org/en/stable/index.html) - The distributed task queue framework used. 
 * [Redis](https://redis.io/) - The message broker used. 
+* [Pytest](https://docs.pytest.org/en/latest/) - The testing framework used.
 
 ## Prerequisites
 
@@ -53,7 +54,7 @@ git clone https://github.com/SpencerOfwiti/Celery-Primer
 
 To set up virtual environment and install dependencies:
 ```
-python3 - m venv venv
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
