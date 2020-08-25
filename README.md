@@ -1,11 +1,16 @@
 # Celery-Primer 
 An intro to using celery for implementing task queues. 
 
+## Table of contents
+* [Built With](#built-with)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Authors](#authors)
+
 ## Built With
 * [Python 3.6](https://www.python.org/) - The programming language used.
 * [Celery](https://docs.celeryproject.org/en/stable/index.html) - The distributed task queue framework used. 
 * [Redis](https://redis.io/) - The message broker used. 
-* 
 
 ## Prerequisites
 
